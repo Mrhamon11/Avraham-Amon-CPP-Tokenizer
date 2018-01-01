@@ -1,0 +1,54 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hamon11/Desktop/C++ Tokenizer/Test.cpp
+Test.h
+/home/hamon11/Desktop/C++ Tokenizer/Test.h
+
+/home/hamon11/Desktop/C++ Tokenizer/Test.h
+set
+-
+Token.h
+/home/hamon11/Desktop/C++ Tokenizer/Token.h
+
+/home/hamon11/Desktop/C++ Tokenizer/Token.cpp
+Token.h
+/home/hamon11/Desktop/C++ Tokenizer/Token.h
+
+/home/hamon11/Desktop/C++ Tokenizer/Token.h
+string
+-
+vector
+-
+
+/home/hamon11/Desktop/C++ Tokenizer/Tokenizer.cpp
+cstring
+-
+Tokenizer.h
+/home/hamon11/Desktop/C++ Tokenizer/Tokenizer.h
+
+/home/hamon11/Desktop/C++ Tokenizer/Tokenizer.h
+stack
+-
+map
+-
+set
+-
+fstream
+-
+iostream
+-
+Token.h
+/home/hamon11/Desktop/C++ Tokenizer/Token.h
+
+/home/hamon11/Desktop/C++ Tokenizer/main.cpp
+Tokenizer.h
+/home/hamon11/Desktop/C++ Tokenizer/Tokenizer.h
+Test.h
+/home/hamon11/Desktop/C++ Tokenizer/Test.h
+
