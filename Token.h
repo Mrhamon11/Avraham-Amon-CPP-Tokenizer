@@ -164,7 +164,7 @@ public:
         MEMBER_SELECT_POINTER,
         SCOPE_RESOLUTION,
         MEMBERSHIP,
-        THIS
+        HASH_INCLUDE
     };
 
     Token();
@@ -333,7 +333,7 @@ private:
             "MEMBER_SELECT_POINTER",
             "SCOPE_RESOLUTION",
             "MEMBERSHIP",
-            "THIS"
+            "HASH_INCLUDE"
     };
 };
 

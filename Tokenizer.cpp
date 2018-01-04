@@ -833,7 +833,7 @@ void Tokenizer::initKeywordMap(){
     keywordTypes["wchar_t"] = Token::WCHAR_T_KEYWORD;
     keywordTypes["xor"] = Token::XOR_KEYWORD;
     keywordTypes["xor_eq"] = Token::XOR_EQ_KEYWORD;
-    keywordTypes["this"] = Token::THIS;
+    keywordTypes["#include"] = Token::HASH_INCLUDE;
 }
 
 void Tokenizer::initPuncSet(){
