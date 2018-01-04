@@ -3,4 +3,4 @@ project(C___Tokenizer)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(C___Tokenizer main.cpp Token.cpp Token.h Tokenizer.cpp Tokenizer.h Test.cpp Test.h)
+add_executable(C___Tokenizer main.cpp Token.cpp Token.h Tokenizer.cpp Tokenizer.h)

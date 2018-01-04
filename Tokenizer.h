@@ -10,6 +10,7 @@
 #include <set>
 #include <fstream>
 #include <iostream>
+#include <cstring>
 #include "Token.h"
 
 using namespace std;

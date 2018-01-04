@@ -2,7 +2,6 @@ file(REMOVE_RECURSE
   "CMakeFiles/C___Tokenizer.dir/main.cpp.o"
   "CMakeFiles/C___Tokenizer.dir/Token.cpp.o"
   "CMakeFiles/C___Tokenizer.dir/Tokenizer.cpp.o"
-  "CMakeFiles/C___Tokenizer.dir/Test.cpp.o"
   "C___Tokenizer.pdb"
   "C___Tokenizer"
 )

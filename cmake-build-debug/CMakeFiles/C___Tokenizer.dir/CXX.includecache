@@ -6,33 +6,21 @@
 
 #IncludeRegexTransform: 
 
-/home/hamon11/Desktop/C++ Tokenizer/Test.cpp
-Test.h
-/home/hamon11/Desktop/C++ Tokenizer/Test.h
-
-/home/hamon11/Desktop/C++ Tokenizer/Test.h
-set
--
+/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 8 - C++ Tokenizer/Token.cpp
 Token.h
-/home/hamon11/Desktop/C++ Tokenizer/Token.h
+/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 8 - C++ Tokenizer/Token.h
 
-/home/hamon11/Desktop/C++ Tokenizer/Token.cpp
-Token.h
-/home/hamon11/Desktop/C++ Tokenizer/Token.h
-
-/home/hamon11/Desktop/C++ Tokenizer/Token.h
+/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 8 - C++ Tokenizer/Token.h
 string
 -
 vector
 -
 
-/home/hamon11/Desktop/C++ Tokenizer/Tokenizer.cpp
-cstring
--
+/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 8 - C++ Tokenizer/Tokenizer.cpp
 Tokenizer.h
-/home/hamon11/Desktop/C++ Tokenizer/Tokenizer.h
+/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 8 - C++ Tokenizer/Tokenizer.h
 
-/home/hamon11/Desktop/C++ Tokenizer/Tokenizer.h
+/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 8 - C++ Tokenizer/Tokenizer.h
 stack
 -
 map
@@ -43,12 +31,12 @@ fstream
 -
 iostream
 -
+cstring
+-
 Token.h
-/home/hamon11/Desktop/C++ Tokenizer/Token.h
+/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 8 - C++ Tokenizer/Token.h
 
-/home/hamon11/Desktop/C++ Tokenizer/main.cpp
+/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 8 - C++ Tokenizer/main.cpp
 Tokenizer.h
-/home/hamon11/Desktop/C++ Tokenizer/Tokenizer.h
-Test.h
-/home/hamon11/Desktop/C++ Tokenizer/Test.h
+/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 8 - C++ Tokenizer/Tokenizer.h
 

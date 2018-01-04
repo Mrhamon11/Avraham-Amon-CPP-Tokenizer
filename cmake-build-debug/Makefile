@@ -48,10 +48,10 @@ RM = /home/hamon11/Downloads/clion-2017.3/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/home/hamon11/Desktop/C++ Tokenizer"
+CMAKE_SOURCE_DIR = "/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 8 - C++ Tokenizer"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/home/hamon11/Desktop/C++ Tokenizer/cmake-build-debug"
+CMAKE_BINARY_DIR = "/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 8 - C++ Tokenizer/cmake-build-debug"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/hamon11/Desktop/C++ Tokenizer/cmake-build-debug/CMakeFiles" "/home/hamon11/Desktop/C++ Tokenizer/cmake-build-debug/CMakeFiles/progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 8 - C++ Tokenizer/cmake-build-debug/CMakeFiles" "/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 8 - C++ Tokenizer/cmake-build-debug/CMakeFiles/progress.marks"
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/hamon11/Desktop/C++ Tokenizer/cmake-build-debug/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 8 - C++ Tokenizer/cmake-build-debug/CMakeFiles" 0
 .PHONY : all
 
 # The main clean target
@@ -122,33 +122,6 @@ C___Tokenizer: cmake_check_build_system
 C___Tokenizer/fast:
 	$(MAKE) -f CMakeFiles/C___Tokenizer.dir/build.make CMakeFiles/C___Tokenizer.dir/build
 .PHONY : C___Tokenizer/fast
-
-Test.o: Test.cpp.o
-
-.PHONY : Test.o
-
-# target to build an object file
-Test.cpp.o:
-	$(MAKE) -f CMakeFiles/C___Tokenizer.dir/build.make CMakeFiles/C___Tokenizer.dir/Test.cpp.o
-.PHONY : Test.cpp.o
-
-Test.i: Test.cpp.i
-
-.PHONY : Test.i
-
-# target to preprocess a source file
-Test.cpp.i:
-	$(MAKE) -f CMakeFiles/C___Tokenizer.dir/build.make CMakeFiles/C___Tokenizer.dir/Test.cpp.i
-.PHONY : Test.cpp.i
-
-Test.s: Test.cpp.s
-
-.PHONY : Test.s
-
-# target to generate assembly for a file
-Test.cpp.s:
-	$(MAKE) -f CMakeFiles/C___Tokenizer.dir/build.make CMakeFiles/C___Tokenizer.dir/Test.cpp.s
-.PHONY : Test.cpp.s
 
 Token.o: Token.cpp.o
 
@@ -240,9 +213,6 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... C___Tokenizer"
-	@echo "... Test.o"
-	@echo "... Test.i"
-	@echo "... Test.s"
 	@echo "... Token.o"
 	@echo "... Token.i"
 	@echo "... Token.s"

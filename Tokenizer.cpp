@@ -1,8 +1,6 @@
 //
 // Created by hamon11 on 12/27/17.
 //
-
-#include <cstring>
 #include "Tokenizer.h"
 
 using namespace std;
@@ -425,11 +423,11 @@ Token Tokenizer::checkKeyword(char token[]){
 
     char c = getChar();
 
-    while(!isspace(c) && c != 0 && c != '(' && c != '{' && c != ':' && c != '['){
+    while(!isspace(c) && c != 0 && c != '(' && c != '{' && c != ':' && c != '[' && c != '.' && c != '-'){
         potentialKw[i++] = c;
         c = getChar();
     }
-    if(c == ' ' || c == '(' || c == '{' || c == ':' || c == '['){
+    if(c == ' ' || c == '(' || c == '{' || c == ':' || c == '['|| c == '.' || c == '-'){
         ungetChar(c);
     }
 
@@ -835,6 +833,7 @@ void Tokenizer::initKeywordMap(){
     keywordTypes["wchar_t"] = Token::WCHAR_T_KEYWORD;
     keywordTypes["xor"] = Token::XOR_KEYWORD;
     keywordTypes["xor_eq"] = Token::XOR_EQ_KEYWORD;
+    keywordTypes["this"] = Token::THIS;
 }
 
 void Tokenizer::initPuncSet(){

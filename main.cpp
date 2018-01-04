@@ -1,5 +1,4 @@
 #include "Tokenizer.h"
-#include "Test.h"
 
 using namespace std;
 
@@ -10,7 +9,7 @@ int main(int argc, char *argv[]) {
         pth = std::string(argv[1]);
     }
     else{
-        pth = "testFile.cpp";
+        pth = "Tokenizer.cpp";
     }
 
     Tokenizer tokenizer = Tokenizer(pth);

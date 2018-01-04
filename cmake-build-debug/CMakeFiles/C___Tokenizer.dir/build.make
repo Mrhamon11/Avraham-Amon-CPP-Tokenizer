@@ -43,10 +43,10 @@ RM = /home/hamon11/Downloads/clion-2017.3/bin/cmake/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/home/hamon11/Desktop/C++ Tokenizer"
+CMAKE_SOURCE_DIR = "/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 8 - C++ Tokenizer"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/home/hamon11/Desktop/C++ Tokenizer/cmake-build-debug"
+CMAKE_BINARY_DIR = "/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 8 - C++ Tokenizer/cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/C___Tokenizer.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/C___Tokenizer.dir/flags.make
 
 CMakeFiles/C___Tokenizer.dir/main.cpp.o: CMakeFiles/C___Tokenizer.dir/flags.make
 CMakeFiles/C___Tokenizer.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/hamon11/Desktop/C++ Tokenizer/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/C___Tokenizer.dir/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C___Tokenizer.dir/main.cpp.o -c "/home/hamon11/Desktop/C++ Tokenizer/main.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 8 - C++ Tokenizer/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/C___Tokenizer.dir/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C___Tokenizer.dir/main.cpp.o -c "/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 8 - C++ Tokenizer/main.cpp"
 
 CMakeFiles/C___Tokenizer.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C___Tokenizer.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/hamon11/Desktop/C++ Tokenizer/main.cpp" > CMakeFiles/C___Tokenizer.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 8 - C++ Tokenizer/main.cpp" > CMakeFiles/C___Tokenizer.dir/main.cpp.i
 
 CMakeFiles/C___Tokenizer.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C___Tokenizer.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/hamon11/Desktop/C++ Tokenizer/main.cpp" -o CMakeFiles/C___Tokenizer.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 8 - C++ Tokenizer/main.cpp" -o CMakeFiles/C___Tokenizer.dir/main.cpp.s
 
 CMakeFiles/C___Tokenizer.dir/main.cpp.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/C___Tokenizer.dir/main.cpp.o.provides.build: CMakeFiles/C___Tokenizer
 
 CMakeFiles/C___Tokenizer.dir/Token.cpp.o: CMakeFiles/C___Tokenizer.dir/flags.make
 CMakeFiles/C___Tokenizer.dir/Token.cpp.o: ../Token.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/hamon11/Desktop/C++ Tokenizer/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/C___Tokenizer.dir/Token.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C___Tokenizer.dir/Token.cpp.o -c "/home/hamon11/Desktop/C++ Tokenizer/Token.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 8 - C++ Tokenizer/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/C___Tokenizer.dir/Token.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C___Tokenizer.dir/Token.cpp.o -c "/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 8 - C++ Tokenizer/Token.cpp"
 
 CMakeFiles/C___Tokenizer.dir/Token.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C___Tokenizer.dir/Token.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/hamon11/Desktop/C++ Tokenizer/Token.cpp" > CMakeFiles/C___Tokenizer.dir/Token.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 8 - C++ Tokenizer/Token.cpp" > CMakeFiles/C___Tokenizer.dir/Token.cpp.i
 
 CMakeFiles/C___Tokenizer.dir/Token.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C___Tokenizer.dir/Token.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/hamon11/Desktop/C++ Tokenizer/Token.cpp" -o CMakeFiles/C___Tokenizer.dir/Token.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 8 - C++ Tokenizer/Token.cpp" -o CMakeFiles/C___Tokenizer.dir/Token.cpp.s
 
 CMakeFiles/C___Tokenizer.dir/Token.cpp.o.requires:
 
@@ -107,16 +107,16 @@ CMakeFiles/C___Tokenizer.dir/Token.cpp.o.provides.build: CMakeFiles/C___Tokenize
 
 CMakeFiles/C___Tokenizer.dir/Tokenizer.cpp.o: CMakeFiles/C___Tokenizer.dir/flags.make
 CMakeFiles/C___Tokenizer.dir/Tokenizer.cpp.o: ../Tokenizer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/hamon11/Desktop/C++ Tokenizer/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/C___Tokenizer.dir/Tokenizer.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C___Tokenizer.dir/Tokenizer.cpp.o -c "/home/hamon11/Desktop/C++ Tokenizer/Tokenizer.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 8 - C++ Tokenizer/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/C___Tokenizer.dir/Tokenizer.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C___Tokenizer.dir/Tokenizer.cpp.o -c "/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 8 - C++ Tokenizer/Tokenizer.cpp"
 
 CMakeFiles/C___Tokenizer.dir/Tokenizer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C___Tokenizer.dir/Tokenizer.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/hamon11/Desktop/C++ Tokenizer/Tokenizer.cpp" > CMakeFiles/C___Tokenizer.dir/Tokenizer.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 8 - C++ Tokenizer/Tokenizer.cpp" > CMakeFiles/C___Tokenizer.dir/Tokenizer.cpp.i
 
 CMakeFiles/C___Tokenizer.dir/Tokenizer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C___Tokenizer.dir/Tokenizer.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/hamon11/Desktop/C++ Tokenizer/Tokenizer.cpp" -o CMakeFiles/C___Tokenizer.dir/Tokenizer.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 8 - C++ Tokenizer/Tokenizer.cpp" -o CMakeFiles/C___Tokenizer.dir/Tokenizer.cpp.s
 
 CMakeFiles/C___Tokenizer.dir/Tokenizer.cpp.o.requires:
 
@@ -129,36 +129,11 @@ CMakeFiles/C___Tokenizer.dir/Tokenizer.cpp.o.provides: CMakeFiles/C___Tokenizer.
 CMakeFiles/C___Tokenizer.dir/Tokenizer.cpp.o.provides.build: CMakeFiles/C___Tokenizer.dir/Tokenizer.cpp.o
 
 
-CMakeFiles/C___Tokenizer.dir/Test.cpp.o: CMakeFiles/C___Tokenizer.dir/flags.make
-CMakeFiles/C___Tokenizer.dir/Test.cpp.o: ../Test.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/hamon11/Desktop/C++ Tokenizer/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/C___Tokenizer.dir/Test.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C___Tokenizer.dir/Test.cpp.o -c "/home/hamon11/Desktop/C++ Tokenizer/Test.cpp"
-
-CMakeFiles/C___Tokenizer.dir/Test.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C___Tokenizer.dir/Test.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/hamon11/Desktop/C++ Tokenizer/Test.cpp" > CMakeFiles/C___Tokenizer.dir/Test.cpp.i
-
-CMakeFiles/C___Tokenizer.dir/Test.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C___Tokenizer.dir/Test.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/hamon11/Desktop/C++ Tokenizer/Test.cpp" -o CMakeFiles/C___Tokenizer.dir/Test.cpp.s
-
-CMakeFiles/C___Tokenizer.dir/Test.cpp.o.requires:
-
-.PHONY : CMakeFiles/C___Tokenizer.dir/Test.cpp.o.requires
-
-CMakeFiles/C___Tokenizer.dir/Test.cpp.o.provides: CMakeFiles/C___Tokenizer.dir/Test.cpp.o.requires
-	$(MAKE) -f CMakeFiles/C___Tokenizer.dir/build.make CMakeFiles/C___Tokenizer.dir/Test.cpp.o.provides.build
-.PHONY : CMakeFiles/C___Tokenizer.dir/Test.cpp.o.provides
-
-CMakeFiles/C___Tokenizer.dir/Test.cpp.o.provides.build: CMakeFiles/C___Tokenizer.dir/Test.cpp.o
-
-
 # Object files for target C___Tokenizer
 C___Tokenizer_OBJECTS = \
 "CMakeFiles/C___Tokenizer.dir/main.cpp.o" \
 "CMakeFiles/C___Tokenizer.dir/Token.cpp.o" \
-"CMakeFiles/C___Tokenizer.dir/Tokenizer.cpp.o" \
-"CMakeFiles/C___Tokenizer.dir/Test.cpp.o"
+"CMakeFiles/C___Tokenizer.dir/Tokenizer.cpp.o"
 
 # External object files for target C___Tokenizer
 C___Tokenizer_EXTERNAL_OBJECTS =
@@ -166,10 +141,9 @@ C___Tokenizer_EXTERNAL_OBJECTS =
 C___Tokenizer: CMakeFiles/C___Tokenizer.dir/main.cpp.o
 C___Tokenizer: CMakeFiles/C___Tokenizer.dir/Token.cpp.o
 C___Tokenizer: CMakeFiles/C___Tokenizer.dir/Tokenizer.cpp.o
-C___Tokenizer: CMakeFiles/C___Tokenizer.dir/Test.cpp.o
 C___Tokenizer: CMakeFiles/C___Tokenizer.dir/build.make
 C___Tokenizer: CMakeFiles/C___Tokenizer.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/hamon11/Desktop/C++ Tokenizer/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable C___Tokenizer"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 8 - C++ Tokenizer/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable C___Tokenizer"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/C___Tokenizer.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -180,7 +154,6 @@ CMakeFiles/C___Tokenizer.dir/build: C___Tokenizer
 CMakeFiles/C___Tokenizer.dir/requires: CMakeFiles/C___Tokenizer.dir/main.cpp.o.requires
 CMakeFiles/C___Tokenizer.dir/requires: CMakeFiles/C___Tokenizer.dir/Token.cpp.o.requires
 CMakeFiles/C___Tokenizer.dir/requires: CMakeFiles/C___Tokenizer.dir/Tokenizer.cpp.o.requires
-CMakeFiles/C___Tokenizer.dir/requires: CMakeFiles/C___Tokenizer.dir/Test.cpp.o.requires
 
 .PHONY : CMakeFiles/C___Tokenizer.dir/requires
 
@@ -189,6 +162,6 @@ CMakeFiles/C___Tokenizer.dir/clean:
 .PHONY : CMakeFiles/C___Tokenizer.dir/clean
 
 CMakeFiles/C___Tokenizer.dir/depend:
-	cd "/home/hamon11/Desktop/C++ Tokenizer/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/hamon11/Desktop/C++ Tokenizer" "/home/hamon11/Desktop/C++ Tokenizer" "/home/hamon11/Desktop/C++ Tokenizer/cmake-build-debug" "/home/hamon11/Desktop/C++ Tokenizer/cmake-build-debug" "/home/hamon11/Desktop/C++ Tokenizer/cmake-build-debug/CMakeFiles/C___Tokenizer.dir/DependInfo.cmake" --color=$(COLOR)
+	cd "/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 8 - C++ Tokenizer/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 8 - C++ Tokenizer" "/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 8 - C++ Tokenizer" "/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 8 - C++ Tokenizer/cmake-build-debug" "/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 8 - C++ Tokenizer/cmake-build-debug" "/home/hamon11/OneDrive/School/YU/Classes/2017 Fall/Programming Languages/Assignments/Assignment 8 - C++ Tokenizer/cmake-build-debug/CMakeFiles/C___Tokenizer.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/C___Tokenizer.dir/depend
 

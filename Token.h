@@ -163,7 +163,8 @@ public:
         CONDITIONAL,
         MEMBER_SELECT_POINTER,
         SCOPE_RESOLUTION,
-        MEMBERSHIP
+        MEMBERSHIP,
+        THIS
     };
 
     Token();
@@ -331,7 +332,8 @@ private:
             "CONDITIONAL",
             "MEMBER_SELECT_POINTER",
             "SCOPE_RESOLUTION",
-            "MEMBERSHIP"
+            "MEMBERSHIP",
+            "THIS"
     };
 };
 
